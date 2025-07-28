@@ -1,0 +1,1 @@
+1. Angular Change detection strategy angular chnage detection will run twise on the developement envirnoment due to it checks again value change or not [Details Explanation](https://github.com/JCoder26/Angular/blob/main/ChangeDetection/Change_Detection.md)
